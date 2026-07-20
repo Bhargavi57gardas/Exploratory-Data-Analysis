@@ -11,8 +11,8 @@ This project performs Exploratory Data Analysis (EDA) on a dataset using Python.
 - Jupyter Notebook
 
 ## 📸 Screenshots
-![sheet1](screenshot/sheet1.png)
-![Dashboard](screenshot/Dashboard.png)
+![sheet1] (sheet1.png)
+![Dashboard] (Dashboard.png)
 
 ## 🚀 Features
 - Data Cleaning
