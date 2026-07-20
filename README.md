@@ -11,7 +11,7 @@ This project performs Exploratory Data Analysis (EDA) on a dataset using Python.
 - Jupyter Notebook
 
 ## 📸 Screenshots
-![sheet1] (sheet1.png)
+![sheet1] (week2_Data_Analytics_Project_Bhargavi/sheet1.png)
 ![Dashboard] (Dashboard.png)
 
 
