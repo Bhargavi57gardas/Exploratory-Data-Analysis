@@ -10,10 +10,6 @@ This project performs Exploratory Data Analysis (EDA) on a dataset using Python.
 - Seaborn
 - Jupyter Notebook
 
-## 📸 Screenshots
-![sheet1] (week2_Data_Analytics_Project_Bhargavi/sheet1.png)
-![Dashboard] (Dashboard.png)
-
 
 ## 🚀 Features
 - Data Cleaning
