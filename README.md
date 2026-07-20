@@ -18,5 +18,9 @@ This project performs Exploratory Data Analysis (EDA) on a dataset using Python.
 - Trend & Outlier Analysis
 - Insight Generation
 
+## Screenshots
+![sheet1](sheet1.png)
+![Dashboard](Dashboard.png)
+
 ## 👨‍💻 Author
 Gardas Bhargavi
